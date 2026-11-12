@@ -1,6 +1,7 @@
 {
   "backend_url": "https://fqblhtxuvlzhqjsmhmvh.supabase.co",
   "anon_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZxYmxodHh1dmx6aHFqc21obXZoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUwMzk5NjQsImV4cCI6MjA5MDYxNTk2NH0.vksjNXjdPoFZTwF5ZmfUWy5-2gdCMU_Zj5gZDA4c8Wg",
+  "test_anon_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzk0NDg2OTE2LCJleHAiOjE5NTIxNjY5MTZ9.Ab8gz1mpW1rAt974BwNK4DwHz9bQGRa54iXYAvIwxKQ",
   "min_version_code": 0,
   "maintenance": { "enabled": false, "message": "", "until": null },
   "updated_at": "2026-11-12T00:00:00Z"
